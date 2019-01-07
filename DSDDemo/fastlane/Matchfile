@@ -1,0 +1,11 @@
+git_url("http://github.miguatech.com/huijianrong/aomiCertificates3.git")
+
+type("development") # The default type, can be: appstore, adhoc, enterprise or development
+
+app_identifier(["com.mem.MacaoLife"])
+username("life@mem853.com") # Your Apple Developer Portal username
+git_branch("macauLife")
+skip_docs(true)
+
+# For all available options run `fastlane match --help`
+# Remove the # in the beginning of the line to enable the other options

@@ -1,0 +1,8 @@
+app_identifier("hjrTestXYProject") # The bundle identifier of your app
+apple_id("zhenkun.xu@icloud.com") # Your Apple email address
+
+#itc_team_id("118138707") # iTunes Connect Team ID
+# team_id("DEJ8KR3WQU") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
